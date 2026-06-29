@@ -1,0 +1,6 @@
+{
+  "name": "Exam Bridge",
+  "description": "Bridge Your Future Through Success - Premium Ethiopian Entrance Exam Preparation Platform with stream-based learning, mock exams, notes, video lessons, and a secure payment verification system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

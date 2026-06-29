@@ -1,0 +1,17 @@
+{
+  "name": "Exam Bridge",
+  "short_name": "Exam Bridge",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#2563eb",
+  "description": "Bridge Your Future Through Success - Ethiopian Entrance Exam Preparation Platform",
+  "icons": [
+    {
+      "src": "/icon.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
